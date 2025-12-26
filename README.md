@@ -20,13 +20,13 @@ into real, working systems.
 ![Skills](https://skillicons.dev/icons?i=cpp,python,c,js,html,css)
 
 ### Frameworks & Libraries
-![Skills](https://skillicons.dev/icons?i=react,django,fastapi)
+![Skills](https://skillicons.dev/icons?i=pytorch,react,django,fastapi)
 
 ### Tools
-![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)
+![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,googlecolab))
 
 ### Core Areas
 - Machine Learning  
 - Data Structures & Algorithms (C++)  
 - Backend Development *(learning)*  
-- Real-Time Systems *(learning)*
+- Real-Time Systems 
