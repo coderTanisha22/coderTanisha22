@@ -23,7 +23,7 @@ into real, working systems.
 ![Skills](https://skillicons.dev/icons?i=pytorch,react,django,fastapi)
 
 ### Tools
-![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,googlecolab))
+![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,googlecolab)
 
 ### Core Areas
 - Machine Learning  
