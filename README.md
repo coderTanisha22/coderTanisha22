@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi!, I'm Tanisha </h1>
+<h3 align="center">B.Tech CSE | ML • AI • Dev</h3>
+
 
 <!--
 **coderTanisha22/coderTanisha22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
