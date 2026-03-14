@@ -23,17 +23,29 @@ C++, C, Python, JavaScript, HTML, CSS, SQL
 
 ---
 
-### Frameworks & Libraries
-![Skills](https://skillicons.dev/icons?i=fastapi,react,pytorch)
+### Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,react" />
+</p>
 
-FastAPI • React • WebSockets • Pandas • NumPy • scikit-learn • PyTorch • Matplotlib
+FastAPI • React • WebSockets
+
+---
+
+### Machine Learning & AI Libraries
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
 ---
 
 ### Tools
 ![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)
 
-Docker • Git • GitHub • Jupyter Notebook • Google Colab • Kaggle • Weights & Biases (wandb)
+Docker • Git • GitHub • Jupyter Notebook • Google Colab • Kaggle • Wandb
 
 ---
 
