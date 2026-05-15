@@ -6,10 +6,8 @@ B.Tech AI & DS @ IIT Jodhpur | ML • AI • Backend • Frontend
 ---
 
 <p align="center">
-I am a B.Tech Computer Science student with a strong interest in AI and Machine Learning,
-along with a solid foundation in Data Structures and Algorithms. I enjoy building end-to-end
-projects involving both backend and frontend development, and I learn best by turning ideas
-into real, working systems.
+I'm a B.Tech AI & Data Science student at IIT Jodhpur with a focus on
+ML engineering, real-time backend systems, and multimodal AI.
 </p>
 
 ---
