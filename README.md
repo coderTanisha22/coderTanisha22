@@ -38,7 +38,6 @@ Docker • Git • GitHub • Jupyter Notebook • Google Colab • Kaggle • W
 ---
 
 ### Machine Learning & AI Libraries
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -47,11 +46,30 @@ Docker • Git • GitHub • Jupyter Notebook • Google Colab • Kaggle • W
 
 ---
 
-
 ### Core Areas
-- Machine Learning  
-- Data Structures & Algorithms (C++)  
+- Machine Learning
+- Data Structures & Algorithms (C++)
 - Backend Development
 - Real-Time Systems
-- Retrieval-Augmented Generation (RAG)  
-- Multimodal AI  
+- Retrieval-Augmented Generation (RAG)
+- Multimodal AI
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to interesting projects, internship opportunities, and collaborations in ML, backend systems, or AI research.
+
+<p align="center">
+  <a href="mailto:b24cm1061@iitj.ac.in">
+    <img src="https://img.shields.io/badge/Email-b24cm1061@iitj.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tanisharay2209/">
+    <img src="https://img.shields.io/badge/LinkedIn-tanisharay2209-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/coderTanisha22">
+    <img src="https://img.shields.io/badge/GitHub-coderTanisha22-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
