@@ -31,7 +31,7 @@ FastAPI • React • WebSockets
 ---
 
 ### Tools
-![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)
+![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,kafka)
 
 Docker • Git • GitHub • Jupyter Notebook • Google Colab • Kaggle • Wandb
 
