@@ -23,7 +23,7 @@ C++, C, Python, JavaScript, HTML, CSS, SQL
 
 ### Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,react" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,react" />
 </p>
 
 Django • FastAPI • React • WebSockets
