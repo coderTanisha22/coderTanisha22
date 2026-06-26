@@ -1,13 +1,13 @@
 <h1 align="center">Hi!, I'm Tanisha 👋</h1>
 <h3 align="center">
-B.Tech AI & DS @ IIT Jodhpur | ML • AI • Backend • Frontend
+B.Tech AI & DS @ IIT Jodhpur | ML • AI • Backend • Frontend • Full-Stack
 </h3>
 
 ---
 
 <p align="center">
 I'm a B.Tech AI & Data Science student at IIT Jodhpur with a focus on
-ML engineering, real-time backend systems, and multimodal AI.
+ML engineering, real-time backend systems, multimodal AI and automation.
 </p>
 
 ---
@@ -26,7 +26,7 @@ C++, C, Python, JavaScript, HTML, CSS, SQL
 <img src="https://skillicons.dev/icons?i=fastapi,react" />
 </p>
 
-FastAPI • React • WebSockets
+Django • FastAPI • React • WebSockets
 
 ---
 
@@ -49,16 +49,16 @@ Docker • Git • GitHub • Jupyter Notebook • Google Colab • Kaggle • W
 ### Core Areas
 - Machine Learning
 - Data Structures & Algorithms (C++)
+- Operating Systems
 - Backend Development
 - Real-Time Systems
-- Retrieval-Augmented Generation (RAG)
 - Multimodal AI
 
 ---
 
 ## 📬 Let's Connect
 
-I'm always open to interesting projects, internship opportunities, and collaborations in ML, backend systems, or AI research.
+I'm always open to interesting projects, internship opportunities, and collaborations in ML, backend systems, or AI research or software roles.
 
 <p align="center">
   <a href="mailto:b24cm1061@iitj.ac.in">
